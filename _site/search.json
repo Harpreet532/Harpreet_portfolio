@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Harpreet Singh_portfolio",
+    "section": "",
+    "text": "My Profile Photo"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "index.html#about",
+    "href": "index.html#about",
+    "title": "Harpreet Singh",
+    "section": "About",
+    "text": "About\nI am a data analyst with a strong background in the education sector, specializing in transforming complex data into actionable insights to support student success and institutional improvement. With hands-on experience in data visualization, reporting, and trend analysis, I help drive data-informed decision-making in educational environments.\nMy mission is “To harness the power of data to uncover opportunities, solve problems, and create measurable impact”."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Harpreet Singh",
+    "section": "Education",
+    "text": "Education\nMBA\nUniversity Canada West (2025)\nBachelor of Computer Science\nD.A.V College, Jalandhar, India"
+  },
+  {
+    "objectID": "index.html#professional-experience",
+    "href": "index.html#professional-experience",
+    "title": "Harpreet Singh",
+    "section": "Professional Experience",
+    "text": "Professional Experience\nData Analyst\nMeritorious Schools Punjab (October 2015-September 2024)\nData Analyst\nDips Group of Institutions (July 2012- October 2015)"
+  },
+  {
+    "objectID": "index.html#key-skills",
+    "href": "index.html#key-skills",
+    "title": "Harpreet Singh",
+    "section": "Key Skills",
+    "text": "Key Skills\nSQL, Tableau, Excel, Python, Communication, Time management, Problem Solving"
+  }
+]

@@ -1,0 +1,33 @@
+---
+title: "Harpreet Singh"
+---
+![](my profile pic.jpg){width=40%}
+
+## About
+
+I am a data analyst with a strong background in the education sector, specializing in transforming complex data into actionable insights to support student success and institutional improvement. With hands-on experience in **data visualization,** **reporting**, and **trend analysis**, I help drive data-informed decision-making in educational environments.
+
+My mission is “To harness the power of data to uncover opportunities, solve problems, and create measurable impact”.
+
+## Education 
+**MBA** 
+
+University Canada West (2025)
+
+**Bachelor of Computer Science** 
+
+D.A.V College, Jalandhar, India 
+
+## Professional Experience
+**Data Analyst** 
+
+Meritorious Schools Punjab (October 2015-September 2024)
+
+**Data Analyst** 
+
+Dips Group of Institutions
+(July 2012- October 2015)
+
+## Key Skills
+
+SQL, Tableau, Excel, Python, Communication, Time management, Problem Solving
